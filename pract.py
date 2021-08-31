@@ -5,6 +5,7 @@ def hello():
 def bye():
   print("bye")
  
+print("test")
 
 
 print(hello())
